@@ -1,5 +1,5 @@
 # naveen-practice
 learning about git. 
 <br>
-and iam excited.
+and iam excited to learn
 
